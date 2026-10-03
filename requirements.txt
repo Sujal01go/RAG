@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain_text_splitters
+langchain_openai
+langchain_chroma
+python_dotenv
+-U langchain-huggingface sentence-transformers
+-U langchain-ollama
+langchain-experimental
+rank_bm25
